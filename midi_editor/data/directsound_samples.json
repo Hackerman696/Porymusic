@@ -1,0 +1,2563 @@
+[
+  {
+    "id": 0,
+    "symbol": "DirectSoundWaveData_sc88pro_accordion",
+    "name": "Accordion",
+    "bank": "sc88pro",
+    "slug": "sc88pro-accordion",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/petalburg.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_cycling.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_fuchsia.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_jigglypuff.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_oak.inc",
+      "sound/voicegroups/rg_sevii_route.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 1,
+    "symbol": "DirectSoundWaveData_sc88pro_accordion_duplicate",
+    "name": "Accordion Duplicate",
+    "bank": "sc88pro",
+    "slug": "sc88pro-accordion-duplicate",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/unused_2.inc"
+    ]
+  },
+  {
+    "id": 2,
+    "symbol": "DirectSoundWaveData_bicycle_bell",
+    "name": "Bicycle Bell",
+    "bank": null,
+    "slug": "bicycle-bell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 3,
+    "symbol": "DirectSoundWaveData_sc88pro_bubbles",
+    "name": "Bubbles",
+    "bank": "sc88pro",
+    "slug": "sc88pro-bubbles",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/underwater.inc"
+    ]
+  },
+  {
+    "id": 4,
+    "symbol": "DirectSoundWaveData_sc88pro_church_organ3_high",
+    "name": "Church Organ3 High",
+    "bank": "sc88pro",
+    "slug": "sc88pro-church-organ3-high",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rayquaza_appears.inc"
+    ]
+  },
+  {
+    "id": 5,
+    "symbol": "DirectSoundWaveData_sc88pro_church_organ3_low",
+    "name": "Church Organ3 Low",
+    "bank": "sc88pro",
+    "slug": "sc88pro-church-organ3-low",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rayquaza_appears.inc"
+    ]
+  },
+  {
+    "id": 6,
+    "symbol": "DirectSoundWaveData_classical_choir_voice_ahhs",
+    "name": "Classical Choir Voice Ahhs",
+    "bank": null,
+    "slug": "classical-choir-voice-ahhs",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid_top.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/rg_encounter_deoxys.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc"
+    ]
+  },
+  {
+    "id": 7,
+    "symbol": "DirectSoundWaveData_dance_drums_ride_bell",
+    "name": "Dance Drums Ride Bell",
+    "bank": null,
+    "slug": "dance-drums-ride-bell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 8,
+    "symbol": "DirectSoundWaveData_drum_and_percussion_kick",
+    "name": "Drum And Percussion Kick",
+    "bank": null,
+    "slug": "drum-and-percussion-kick",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 9,
+    "symbol": "DirectSoundWaveData_ethnic_flavours_atarigane",
+    "name": "Ethnic Flavours Atarigane",
+    "bank": null,
+    "slug": "ethnic-flavours-atarigane",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc"
+    ]
+  },
+  {
+    "id": 10,
+    "symbol": "DirectSoundWaveData_ethnic_flavours_hyoushigi",
+    "name": "Ethnic Flavours Hyoushigi",
+    "bank": null,
+    "slug": "ethnic-flavours-hyoushigi",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 11,
+    "symbol": "DirectSoundWaveData_ethnic_flavours_kotsuzumi",
+    "name": "Ethnic Flavours Kotsuzumi",
+    "bank": null,
+    "slug": "ethnic-flavours-kotsuzumi",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc"
+    ]
+  },
+  {
+    "id": 12,
+    "symbol": "DirectSoundWaveData_ethnic_flavours_ohtsuzumi",
+    "name": "Ethnic Flavours Ohtsuzumi",
+    "bank": null,
+    "slug": "ethnic-flavours-ohtsuzumi",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 13,
+    "symbol": "DirectSoundWaveData_sc88pro_fingered_bass",
+    "name": "Fingered Bass",
+    "bank": "sc88pro",
+    "slug": "sc88pro-fingered-bass",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/encounter_swimmer.inc",
+      "sound/voicegroups/fortree.inc",
+      "sound/voicegroups/rg_caught_intro.inc",
+      "sound/voicegroups/rg_poke_center.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_champion.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_gym_leader.inc",
+      "sound/voicegroups/vs_kyogre_groudon.inc",
+      "sound/voicegroups/vs_mew.inc",
+      "sound/voicegroups/vs_rayquaza.inc",
+      "sound/voicegroups/vs_rival.inc",
+      "sound/voicegroups/vs_trainer.inc",
+      "sound/voicegroups/vs_wild.inc"
+    ]
+  },
+  {
+    "id": 14,
+    "symbol": "DirectSoundWaveData_sc88pro_flute",
+    "name": "Flute",
+    "bank": "sc88pro",
+    "slug": "sc88pro-flute",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abnormal_weather.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/birch_lab.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/contest_lobby.inc",
+      "sound/voicegroups/contest_winner.inc",
+      "sound/voicegroups/credits.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/encounter_brendan.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_female.inc",
+      "sound/voicegroups/encounter_may.inc",
+      "sound/voicegroups/encounter_rich.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/encounter_twins.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/follow_me.inc",
+      "sound/voicegroups/fortree.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/help.inc",
+      "sound/voicegroups/intro.inc",
+      "sound/voicegroups/intro_battle.inc",
+      "sound/voicegroups/lilycove.inc",
+      "sound/voicegroups/link_contest_p1.inc",
+      "sound/voicegroups/link_contest_p2.inc",
+      "sound/voicegroups/link_contest_p3.inc",
+      "sound/voicegroups/link_contest_p4.inc",
+      "sound/voicegroups/littleroot.inc",
+      "sound/voicegroups/littleroot_test.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/oldale.inc",
+      "sound/voicegroups/petalburg.inc",
+      "sound/voicegroups/petalburg_woods.inc",
+      "sound/voicegroups/poke_center.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_cycling.inc",
+      "sound/voicegroups/rg_game_corner.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_oak.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_route11.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_sevii_route.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_victory_gym_leader.inc",
+      "sound/voicegroups/rg_victory_wild.inc",
+      "sound/voicegroups/route101.inc",
+      "sound/voicegroups/route113.inc",
+      "sound/voicegroups/route120.inc",
+      "sound/voicegroups/route122.inc",
+      "sound/voicegroups/rustboro.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/sealed_chamber.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/surf.inc",
+      "sound/voicegroups/test.inc",
+      "sound/voicegroups/title.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/verdanturf.inc",
+      "sound/voicegroups/victory_gym_leader.inc",
+      "sound/voicegroups/victory_league.inc",
+      "sound/voicegroups/victory_road.inc",
+      "sound/voicegroups/victory_wild.inc",
+      "sound/voicegroups/vs_champion.inc",
+      "sound/voicegroups/vs_kyogre_groudon.inc",
+      "sound/voicegroups/vs_rayquaza.inc"
+    ]
+  },
+  {
+    "id": 15,
+    "symbol": "DirectSoundWaveData_sc88pro_french_horn_60",
+    "name": "French Horn 60",
+    "bank": "sc88pro",
+    "slug": "sc88pro-french-horn-60",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/french_horn.inc"
+    ]
+  },
+  {
+    "id": 16,
+    "symbol": "DirectSoundWaveData_sc88pro_french_horn_72",
+    "name": "French Horn 72",
+    "bank": "sc88pro",
+    "slug": "sc88pro-french-horn-72",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/french_horn.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 17,
+    "symbol": "DirectSoundWaveData_sc88pro_fretless_bass",
+    "name": "Fretless Bass",
+    "bank": "sc88pro",
+    "slug": "sc88pro-fretless-bass",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/aqua_magma_hideout.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_palace.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/birch_lab.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/encounter_female.inc",
+      "sound/voicegroups/encounter_rich.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/follow_me.inc",
+      "sound/voicegroups/game_corner.inc",
+      "sound/voicegroups/littleroot.inc",
+      "sound/voicegroups/littleroot_test.inc",
+      "sound/voicegroups/mt_pyre.inc",
+      "sound/voicegroups/oceanic_museum.inc",
+      "sound/voicegroups/petalburg.inc",
+      "sound/voicegroups/poke_center.inc",
+      "sound/voicegroups/poke_mart.inc",
+      "sound/voicegroups/rayquaza_appears.inc",
+      "sound/voicegroups/rg_encounter_boy.inc",
+      "sound/voicegroups/rg_mystery_gift.inc",
+      "sound/voicegroups/rg_oak_lab.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_victory_trainer.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/route101.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/rustboro.inc",
+      "sound/voicegroups/safari_zone.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/test.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/verdanturf.inc",
+      "sound/voicegroups/victory_aqua_magma.inc",
+      "sound/voicegroups/victory_road.inc",
+      "sound/voicegroups/victory_trainer.inc",
+      "sound/voicegroups/vs_frontier_brain.inc"
+    ]
+  },
+  {
+    "id": 18,
+    "symbol": "DirectSoundWaveData_sc88pro_glockenspiel",
+    "name": "Glockenspiel",
+    "bank": "sc88pro",
+    "slug": "sc88pro-glockenspiel",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/route119.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/title.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/underwater.inc"
+    ]
+  },
+  {
+    "id": 19,
+    "symbol": "DirectSoundWaveData_sc88pro_harp",
+    "name": "Harp",
+    "bank": "sc88pro",
+    "slug": "sc88pro-harp",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abandoned_ship.inc",
+      "sound/voicegroups/b_arena.inc",
+      "sound/voicegroups/b_frontier.inc",
+      "sound/voicegroups/b_palace.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/b_pyramid_top.inc",
+      "sound/voicegroups/b_tower.inc",
+      "sound/voicegroups/birch_lab.inc",
+      "sound/voicegroups/cave_of_origin.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/contest_results.inc",
+      "sound/voicegroups/contest_winner.inc",
+      "sound/voicegroups/credits.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/encounter_swimmer.inc",
+      "sound/voicegroups/end.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/game_corner.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/intro.inc",
+      "sound/voicegroups/intro_battle.inc",
+      "sound/voicegroups/lilycove.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/oceanic_museum.inc",
+      "sound/voicegroups/poke_mart.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_game_freak.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_route11.inc",
+      "sound/voicegroups/rg_sevii_route.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/route104.inc",
+      "sound/voicegroups/route110.inc",
+      "sound/voicegroups/route111.inc",
+      "sound/voicegroups/route113.inc",
+      "sound/voicegroups/route119.inc",
+      "sound/voicegroups/route120.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/sealed_chamber.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/surf.inc",
+      "sound/voicegroups/title.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/victory_aqua_magma.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_rival.inc",
+      "sound/voicegroups/vs_wild.inc"
+    ]
+  },
+  {
+    "id": 20,
+    "symbol": "DirectSoundWaveData_heart_of_asia_gamelan",
+    "name": "Heart Of Asia Gamelan",
+    "bank": null,
+    "slug": "heart-of-asia-gamelan",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_palace.inc"
+    ]
+  },
+  {
+    "id": 21,
+    "symbol": "DirectSoundWaveData_sc88pro_jingle_bell",
+    "name": "Jingle Bell",
+    "bank": "sc88pro",
+    "slug": "sc88pro-jingle-bell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_2.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 22,
+    "symbol": "DirectSoundWaveData_sc88pro_mute_high_conga",
+    "name": "Mute High Conga",
+    "bank": "sc88pro",
+    "slug": "sc88pro-mute-high-conga",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/route110.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 23,
+    "symbol": "DirectSoundWaveData_sc88pro_nylon_str_guitar",
+    "name": "Nylon String Guitar",
+    "bank": "sc88pro",
+    "slug": "sc88pro-nylon-str-guitar",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_frontier.inc",
+      "sound/voicegroups/b_palace.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/b_pyramid_top.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/contest_results.inc",
+      "sound/voicegroups/contest_winner.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/encounter_brendan.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/encounter_twins.inc",
+      "sound/voicegroups/end.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/follow_me.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/game_corner.inc",
+      "sound/voicegroups/hall_of_fame.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/link_contest_p1.inc",
+      "sound/voicegroups/link_contest_p2.inc",
+      "sound/voicegroups/link_contest_p3.inc",
+      "sound/voicegroups/link_contest_p4.inc",
+      "sound/voicegroups/mt_pyre.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/rg_caught_intro.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_cycling.inc",
+      "sound/voicegroups/rg_dex_rating.inc",
+      "sound/voicegroups/rg_encounter_boy.inc",
+      "sound/voicegroups/rg_encounter_girl.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_follow_me.inc",
+      "sound/voicegroups/rg_fuchsia.inc",
+      "sound/voicegroups/rg_game_corner.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_mt_moon.inc",
+      "sound/voicegroups/rg_mystery_gift.inc",
+      "sound/voicegroups/rg_oak_lab.inc",
+      "sound/voicegroups/rg_obtain_key_item.inc",
+      "sound/voicegroups/rg_pallet.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_poke_center.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_route3.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_sevii_route.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_unused.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_viridian_forest.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/route101.inc",
+      "sound/voicegroups/route113.inc",
+      "sound/voicegroups/route120.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/sealed_chamber.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/test.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/victory_aqua_magma.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 24,
+    "symbol": "DirectSoundWaveData_sc88pro_open_low_conga",
+    "name": "Open Low Conga",
+    "bank": "sc88pro",
+    "slug": "sc88pro-open-low-conga",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/route110.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 25,
+    "symbol": "DirectSoundWaveData_sc88pro_orchestra_cymbal_crash",
+    "name": "Orchestra Cymbal Crash",
+    "bank": "sc88pro",
+    "slug": "sc88pro-orchestra-cymbal-crash",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route110.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/vs_aqua_magma_leader.inc",
+      "sound/voicegroups/vs_kyogre_groudon.inc",
+      "sound/voicegroups/vs_rayquaza.inc"
+    ]
+  },
+  {
+    "id": 26,
+    "symbol": "DirectSoundWaveData_sc88pro_orchestra_snare",
+    "name": "Orchestra Snare",
+    "bank": "sc88pro",
+    "slug": "sc88pro-orchestra-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/route110.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 27,
+    "symbol": "DirectSoundWaveData_sc88pro_organ2",
+    "name": "Organ2",
+    "bank": "sc88pro",
+    "slug": "sc88pro-organ2",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abandoned_ship.inc",
+      "sound/voicegroups/aqua_magma_hideout.inc",
+      "sound/voicegroups/b_dome.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/encounter_aqua.inc",
+      "sound/voicegroups/encounter_brendan.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_cool.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_male.inc",
+      "sound/voicegroups/encounter_may.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/encounter_twins.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/game_corner.inc",
+      "sound/voicegroups/link_contest_p1.inc",
+      "sound/voicegroups/link_contest_p2.inc",
+      "sound/voicegroups/link_contest_p3.inc",
+      "sound/voicegroups/link_contest_p4.inc",
+      "sound/voicegroups/poke_mart.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_cycling.inc",
+      "sound/voicegroups/rg_encounter_boy.inc",
+      "sound/voicegroups/rg_encounter_girl.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_fuchsia.inc",
+      "sound/voicegroups/rg_game_corner.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_oak.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_poke_center.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_route3.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_sevii_route.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_victory_trainer.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/roulette.inc",
+      "sound/voicegroups/rustboro.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/victory_trainer.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc",
+      "sound/voicegroups/vs_trainer.inc"
+    ]
+  },
+  {
+    "id": 28,
+    "symbol": "DirectSoundWaveData_Phoneme_1",
+    "name": "Phoneme 1",
+    "bank": null,
+    "slug": "phoneme-1",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 29,
+    "symbol": "DirectSoundWaveData_Phoneme_10",
+    "name": "Phoneme 10",
+    "bank": null,
+    "slug": "phoneme-10",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 30,
+    "symbol": "DirectSoundWaveData_Phoneme_11",
+    "name": "Phoneme 11",
+    "bank": null,
+    "slug": "phoneme-11",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 31,
+    "symbol": "DirectSoundWaveData_Phoneme_12",
+    "name": "Phoneme 12",
+    "bank": null,
+    "slug": "phoneme-12",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 32,
+    "symbol": "DirectSoundWaveData_Phoneme_13",
+    "name": "Phoneme 13",
+    "bank": null,
+    "slug": "phoneme-13",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 33,
+    "symbol": "DirectSoundWaveData_Phoneme_14",
+    "name": "Phoneme 14",
+    "bank": null,
+    "slug": "phoneme-14",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 34,
+    "symbol": "DirectSoundWaveData_Phoneme_15",
+    "name": "Phoneme 15",
+    "bank": null,
+    "slug": "phoneme-15",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 35,
+    "symbol": "DirectSoundWaveData_Phoneme_16",
+    "name": "Phoneme 16",
+    "bank": null,
+    "slug": "phoneme-16",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 36,
+    "symbol": "DirectSoundWaveData_Phoneme_17",
+    "name": "Phoneme 17",
+    "bank": null,
+    "slug": "phoneme-17",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 37,
+    "symbol": "DirectSoundWaveData_Phoneme_18",
+    "name": "Phoneme 18",
+    "bank": null,
+    "slug": "phoneme-18",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 38,
+    "symbol": "DirectSoundWaveData_Phoneme_19",
+    "name": "Phoneme 19",
+    "bank": null,
+    "slug": "phoneme-19",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 39,
+    "symbol": "DirectSoundWaveData_Phoneme_2",
+    "name": "Phoneme 2",
+    "bank": null,
+    "slug": "phoneme-2",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 40,
+    "symbol": "DirectSoundWaveData_Phoneme_20",
+    "name": "Phoneme 20",
+    "bank": null,
+    "slug": "phoneme-20",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 41,
+    "symbol": "DirectSoundWaveData_Phoneme_21",
+    "name": "Phoneme 21",
+    "bank": null,
+    "slug": "phoneme-21",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 42,
+    "symbol": "DirectSoundWaveData_Phoneme_22",
+    "name": "Phoneme 22",
+    "bank": null,
+    "slug": "phoneme-22",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 43,
+    "symbol": "DirectSoundWaveData_Phoneme_23",
+    "name": "Phoneme 23",
+    "bank": null,
+    "slug": "phoneme-23",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 44,
+    "symbol": "DirectSoundWaveData_Phoneme_24",
+    "name": "Phoneme 24",
+    "bank": null,
+    "slug": "phoneme-24",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 45,
+    "symbol": "DirectSoundWaveData_Phoneme_25",
+    "name": "Phoneme 25",
+    "bank": null,
+    "slug": "phoneme-25",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 46,
+    "symbol": "DirectSoundWaveData_Phoneme_26",
+    "name": "Phoneme 26",
+    "bank": null,
+    "slug": "phoneme-26",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 47,
+    "symbol": "DirectSoundWaveData_Phoneme_27",
+    "name": "Phoneme 27",
+    "bank": null,
+    "slug": "phoneme-27",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 48,
+    "symbol": "DirectSoundWaveData_Phoneme_28",
+    "name": "Phoneme 28",
+    "bank": null,
+    "slug": "phoneme-28",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 49,
+    "symbol": "DirectSoundWaveData_Phoneme_29",
+    "name": "Phoneme 29",
+    "bank": null,
+    "slug": "phoneme-29",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 50,
+    "symbol": "DirectSoundWaveData_Phoneme_3",
+    "name": "Phoneme 3",
+    "bank": null,
+    "slug": "phoneme-3",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 51,
+    "symbol": "DirectSoundWaveData_Phoneme_30",
+    "name": "Phoneme 30",
+    "bank": null,
+    "slug": "phoneme-30",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 52,
+    "symbol": "DirectSoundWaveData_Phoneme_31",
+    "name": "Phoneme 31",
+    "bank": null,
+    "slug": "phoneme-31",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 53,
+    "symbol": "DirectSoundWaveData_Phoneme_32",
+    "name": "Phoneme 32",
+    "bank": null,
+    "slug": "phoneme-32",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 54,
+    "symbol": "DirectSoundWaveData_Phoneme_33",
+    "name": "Phoneme 33",
+    "bank": null,
+    "slug": "phoneme-33",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 55,
+    "symbol": "DirectSoundWaveData_Phoneme_34",
+    "name": "Phoneme 34",
+    "bank": null,
+    "slug": "phoneme-34",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 56,
+    "symbol": "DirectSoundWaveData_Phoneme_35",
+    "name": "Phoneme 35",
+    "bank": null,
+    "slug": "phoneme-35",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 57,
+    "symbol": "DirectSoundWaveData_Phoneme_36",
+    "name": "Phoneme 36",
+    "bank": null,
+    "slug": "phoneme-36",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 58,
+    "symbol": "DirectSoundWaveData_Phoneme_37",
+    "name": "Phoneme 37",
+    "bank": null,
+    "slug": "phoneme-37",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 59,
+    "symbol": "DirectSoundWaveData_Phoneme_38",
+    "name": "Phoneme 38",
+    "bank": null,
+    "slug": "phoneme-38",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 60,
+    "symbol": "DirectSoundWaveData_Phoneme_39",
+    "name": "Phoneme 39",
+    "bank": null,
+    "slug": "phoneme-39",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 61,
+    "symbol": "DirectSoundWaveData_Phoneme_4",
+    "name": "Phoneme 4",
+    "bank": null,
+    "slug": "phoneme-4",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 62,
+    "symbol": "DirectSoundWaveData_Phoneme_40",
+    "name": "Phoneme 40",
+    "bank": null,
+    "slug": "phoneme-40",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 63,
+    "symbol": "DirectSoundWaveData_Phoneme_41",
+    "name": "Phoneme 41",
+    "bank": null,
+    "slug": "phoneme-41",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 64,
+    "symbol": "DirectSoundWaveData_Phoneme_42",
+    "name": "Phoneme 42",
+    "bank": null,
+    "slug": "phoneme-42",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 65,
+    "symbol": "DirectSoundWaveData_Phoneme_43",
+    "name": "Phoneme 43",
+    "bank": null,
+    "slug": "phoneme-43",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 66,
+    "symbol": "DirectSoundWaveData_Phoneme_44",
+    "name": "Phoneme 44",
+    "bank": null,
+    "slug": "phoneme-44",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 67,
+    "symbol": "DirectSoundWaveData_Phoneme_45",
+    "name": "Phoneme 45",
+    "bank": null,
+    "slug": "phoneme-45",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 68,
+    "symbol": "DirectSoundWaveData_Phoneme_46",
+    "name": "Phoneme 46",
+    "bank": null,
+    "slug": "phoneme-46",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 69,
+    "symbol": "DirectSoundWaveData_Phoneme_47",
+    "name": "Phoneme 47",
+    "bank": null,
+    "slug": "phoneme-47",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 70,
+    "symbol": "DirectSoundWaveData_Phoneme_48",
+    "name": "Phoneme 48",
+    "bank": null,
+    "slug": "phoneme-48",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 71,
+    "symbol": "DirectSoundWaveData_Phoneme_49",
+    "name": "Phoneme 49",
+    "bank": null,
+    "slug": "phoneme-49",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 72,
+    "symbol": "DirectSoundWaveData_Phoneme_5",
+    "name": "Phoneme 5",
+    "bank": null,
+    "slug": "phoneme-5",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 73,
+    "symbol": "DirectSoundWaveData_Phoneme_50",
+    "name": "Phoneme 50",
+    "bank": null,
+    "slug": "phoneme-50",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 74,
+    "symbol": "DirectSoundWaveData_Phoneme_51",
+    "name": "Phoneme 51",
+    "bank": null,
+    "slug": "phoneme-51",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 75,
+    "symbol": "DirectSoundWaveData_Phoneme_6",
+    "name": "Phoneme 6",
+    "bank": null,
+    "slug": "phoneme-6",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 76,
+    "symbol": "DirectSoundWaveData_Phoneme_7",
+    "name": "Phoneme 7",
+    "bank": null,
+    "slug": "phoneme-7",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 77,
+    "symbol": "DirectSoundWaveData_Phoneme_8",
+    "name": "Phoneme 8",
+    "bank": null,
+    "slug": "phoneme-8",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 78,
+    "symbol": "DirectSoundWaveData_Phoneme_9",
+    "name": "Phoneme 9",
+    "bank": null,
+    "slug": "phoneme-9",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/bard.inc"
+    ]
+  },
+  {
+    "id": 79,
+    "symbol": "DirectSoundWaveData_sc88pro_piano1_48",
+    "name": "Piano1 48",
+    "bank": "sc88pro",
+    "slug": "sc88pro-piano1-48",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/piano.inc"
+    ]
+  },
+  {
+    "id": 80,
+    "symbol": "DirectSoundWaveData_sc88pro_piano1_60",
+    "name": "Piano1 60",
+    "bank": "sc88pro",
+    "slug": "sc88pro-piano1-60",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/piano.inc"
+    ]
+  },
+  {
+    "id": 81,
+    "symbol": "DirectSoundWaveData_sc88pro_piano1_72",
+    "name": "Piano1 72",
+    "bank": "sc88pro",
+    "slug": "sc88pro-piano1-72",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/piano.inc"
+    ]
+  },
+  {
+    "id": 82,
+    "symbol": "DirectSoundWaveData_sc88pro_piano1_84",
+    "name": "Piano1 84",
+    "bank": "sc88pro",
+    "slug": "sc88pro-piano1-84",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/piano.inc"
+    ]
+  },
+  {
+    "id": 83,
+    "symbol": "DirectSoundWaveData_sc88pro_pizzicato_strings",
+    "name": "Pizzicato Strings",
+    "bank": "sc88pro",
+    "slug": "sc88pro-pizzicato-strings",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/encounter_female.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/encounter_swimmer.inc",
+      "sound/voicegroups/fallarbor.inc",
+      "sound/voicegroups/follow_me.inc",
+      "sound/voicegroups/intro.inc",
+      "sound/voicegroups/lilycove.inc",
+      "sound/voicegroups/lilycove_museum.inc",
+      "sound/voicegroups/littleroot.inc",
+      "sound/voicegroups/littleroot_test.inc",
+      "sound/voicegroups/mt_pyre.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/oldale.inc",
+      "sound/voicegroups/petalburg_woods.inc",
+      "sound/voicegroups/poke_center.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_victory_gym_leader.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/surf.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/verdanturf.inc",
+      "sound/voicegroups/victory_gym_leader.inc",
+      "sound/voicegroups/victory_league.inc",
+      "sound/voicegroups/vs_champion.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_gym_leader.inc",
+      "sound/voicegroups/vs_regi.inc"
+    ]
+  },
+  {
+    "id": 84,
+    "symbol": "DirectSoundWaveData_register_noise",
+    "name": "Register Noise",
+    "bank": null,
+    "slug": "register-noise",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 85,
+    "symbol": "DirectSoundWaveData_sc88pro_rnd_kick",
+    "name": "Rnd Kick",
+    "bank": "sc88pro",
+    "slug": "sc88pro-rnd-kick",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/rs.inc"
+    ]
+  },
+  {
+    "id": 86,
+    "symbol": "DirectSoundWaveData_sc88pro_rnd_snare",
+    "name": "Rnd Snare",
+    "bank": "sc88pro",
+    "slug": "sc88pro-rnd-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 87,
+    "symbol": "DirectSoundWaveData_sd90_ambient_tom",
+    "name": "Sd90 Ambient Tom",
+    "bank": null,
+    "slug": "sd90-ambient-tom",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 88,
+    "symbol": "DirectSoundWaveData_sd90_classical_detuned_ep1_high",
+    "name": "Sd90 Classical Detuned Ep1 High",
+    "bank": null,
+    "slug": "sd90-classical-detuned-ep1-high",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_pallet.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_poke_center.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/vs_frontier_brain.inc"
+    ]
+  },
+  {
+    "id": 89,
+    "symbol": "DirectSoundWaveData_sd90_classical_detuned_ep1_low",
+    "name": "Sd90 Classical Detuned Ep1 Low",
+    "bank": null,
+    "slug": "sd90-classical-detuned-ep1-low",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rg_celadon.inc",
+      "sound/voicegroups/rg_cinnabar.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_hall_of_fame.inc",
+      "sound/voicegroups/rg_pallet.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_photo.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_ss_anne.inc",
+      "sound/voicegroups/rg_surf.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/rg_vermillion.inc",
+      "sound/voicegroups/rg_victory_road.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/vs_frontier_brain.inc"
+    ]
+  },
+  {
+    "id": 90,
+    "symbol": "DirectSoundWaveData_sd90_classical_distortion_guitar_high",
+    "name": "Sd90 Classical Distortion Guitar High",
+    "bank": null,
+    "slug": "sd90-classical-distortion-guitar-high",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_dome.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_intro_fight.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 91,
+    "symbol": "DirectSoundWaveData_sd90_classical_distortion_guitar_low",
+    "name": "Sd90 Classical Distortion Guitar Low",
+    "bank": null,
+    "slug": "sd90-classical-distortion-guitar-low",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_dome.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_intro_fight.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 92,
+    "symbol": "DirectSoundWaveData_sd90_classical_oboe",
+    "name": "Sd90 Classical Oboe",
+    "bank": null,
+    "slug": "sd90-classical-oboe",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 93,
+    "symbol": "DirectSoundWaveData_sd90_classical_overdrive_guitar",
+    "name": "Sd90 Classical Overdrive Guitar",
+    "bank": null,
+    "slug": "sd90-classical-overdrive-guitar",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_dome.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_intro_fight.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 94,
+    "symbol": "DirectSoundWaveData_sd90_classical_shakuhachi",
+    "name": "Sd90 Classical Shakuhachi",
+    "bank": null,
+    "slug": "sd90-classical-shakuhachi",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_arena.inc"
+    ]
+  },
+  {
+    "id": 95,
+    "symbol": "DirectSoundWaveData_sd90_classical_whistle",
+    "name": "Sd90 Classical Whistle",
+    "bank": null,
+    "slug": "sd90-classical-whistle",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_route1.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_viridian_forest.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc"
+    ]
+  },
+  {
+    "id": 96,
+    "symbol": "DirectSoundWaveData_sd90_cowbell",
+    "name": "Sd90 Cowbell",
+    "bank": null,
+    "slug": "sd90-cowbell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 97,
+    "symbol": "DirectSoundWaveData_sd90_enhanced_delay_shaku",
+    "name": "Sd90 Enhanced Delay Shaku",
+    "bank": null,
+    "slug": "sd90-enhanced-delay-shaku",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rg_poke_tower.inc"
+    ]
+  },
+  {
+    "id": 98,
+    "symbol": "DirectSoundWaveData_sd90_open_triangle",
+    "name": "Sd90 Open Triangle",
+    "bank": null,
+    "slug": "sd90-open-triangle",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 99,
+    "symbol": "DirectSoundWaveData_sd90_solo_snare",
+    "name": "Sd90 Solo Snare",
+    "bank": null,
+    "slug": "sd90-solo-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc"
+    ]
+  },
+  {
+    "id": 100,
+    "symbol": "DirectSoundWaveData_sd90_special_scream_drive",
+    "name": "Sd90 Special Scream Drive",
+    "bank": null,
+    "slug": "sd90-special-scream-drive",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_dome.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/rg_encounter_deoxys.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/vs_frontier_brain.inc"
+    ]
+  },
+  {
+    "id": 101,
+    "symbol": "DirectSoundWaveData_sc88pro_slap_bass",
+    "name": "Slap Bass",
+    "bank": "sc88pro",
+    "slug": "sc88pro-slap-bass",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/aqua_magma_hideout.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/encounter_aqua.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_cool.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_interviewer.inc",
+      "sound/voicegroups/encounter_magma.inc",
+      "sound/voicegroups/encounter_male.inc",
+      "sound/voicegroups/encounter_may.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/link_contest_p1.inc",
+      "sound/voicegroups/link_contest_p2.inc",
+      "sound/voicegroups/link_contest_p3.inc",
+      "sound/voicegroups/link_contest_p4.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/victory_road.inc",
+      "sound/voicegroups/vs_aqua_magma_leader.inc",
+      "sound/voicegroups/vs_regi.inc"
+    ]
+  },
+  {
+    "id": 102,
+    "symbol": "DirectSoundWaveData_sc88pro_square_wave",
+    "name": "Square Wave",
+    "bank": "sc88pro",
+    "slug": "sc88pro-square-wave",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/rg_poke_mansion.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rs_sfx_1.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 103,
+    "symbol": "DirectSoundWaveData_steinway_b_piano",
+    "name": "Steinway B Piano",
+    "bank": null,
+    "slug": "steinway-b-piano",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rg_follow_me.inc",
+      "sound/voicegroups/rg_route1.inc",
+      "sound/voicegroups/rg_viridian_forest.inc"
+    ]
+  },
+  {
+    "id": 104,
+    "symbol": "DirectSoundWaveData_sc88pro_string_ensemble_60",
+    "name": "String Ensemble 60",
+    "bank": "sc88pro",
+    "slug": "sc88pro-string-ensemble-60",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/strings.inc"
+    ]
+  },
+  {
+    "id": 105,
+    "symbol": "DirectSoundWaveData_sc88pro_string_ensemble_72",
+    "name": "String Ensemble 72",
+    "bank": "sc88pro",
+    "slug": "sc88pro-string-ensemble-72",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/strings.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 106,
+    "symbol": "DirectSoundWaveData_sc88pro_string_ensemble_84",
+    "name": "String Ensemble 84",
+    "bank": "sc88pro",
+    "slug": "sc88pro-string-ensemble-84",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/strings.inc"
+    ]
+  },
+  {
+    "id": 107,
+    "symbol": "DirectSoundWaveData_sc88pro_synth_bass",
+    "name": "Synth Bass",
+    "bank": "sc88pro",
+    "slug": "sc88pro-synth-bass",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/contest_results.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/encounter_brendan.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_girl.inc",
+      "sound/voicegroups/encounter_intense.inc",
+      "sound/voicegroups/encounter_interviewer.inc",
+      "sound/voicegroups/encounter_magma.inc",
+      "sound/voicegroups/encounter_suspicious.inc",
+      "sound/voicegroups/encounter_twins.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/follow_me.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/help.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/rg_encounter_boy.inc",
+      "sound/voicegroups/rg_encounter_deoxys.inc",
+      "sound/voicegroups/rg_encounter_rival.inc",
+      "sound/voicegroups/rg_encounter_rocket.inc",
+      "sound/voicegroups/rg_intro_fight.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/roulette.inc",
+      "sound/voicegroups/route104.inc",
+      "sound/voicegroups/route111.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_elite_four.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 108,
+    "symbol": "DirectSoundWaveData_sc88pro_taiko",
+    "name": "Taiko",
+    "bank": "sc88pro",
+    "slug": "sc88pro-taiko",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/frlg_sfx.inc"
+    ]
+  },
+  {
+    "id": 109,
+    "symbol": "DirectSoundWaveData_sc88pro_tambourine",
+    "name": "Tambourine",
+    "bank": "sc88pro",
+    "slug": "sc88pro-tambourine",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/petalburg.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/route101.inc",
+      "sound/voicegroups/drumsets/route110.inc",
+      "sound/voicegroups/drumsets/rs.inc"
+    ]
+  },
+  {
+    "id": 110,
+    "symbol": "DirectSoundWaveData_sc88pro_timpani",
+    "name": "Timpani",
+    "bank": "sc88pro",
+    "slug": "sc88pro-timpani",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abandoned_ship.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_frontier.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/b_tower.inc",
+      "sound/voicegroups/b_tower_rs.inc",
+      "sound/voicegroups/cave_of_origin.inc",
+      "sound/voicegroups/contest_winner.inc",
+      "sound/voicegroups/credits.inc",
+      "sound/voicegroups/cycling.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_hiker.inc",
+      "sound/voicegroups/encounter_magma.inc",
+      "sound/voicegroups/evolution.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/gym.inc",
+      "sound/voicegroups/hall_of_fame.inc",
+      "sound/voicegroups/intro.inc",
+      "sound/voicegroups/intro_battle.inc",
+      "sound/voicegroups/mt_chimney.inc",
+      "sound/voicegroups/mt_pyre.inc",
+      "sound/voicegroups/mt_pyre_exterior.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_game_corner.inc",
+      "sound/voicegroups/rg_gym.inc",
+      "sound/voicegroups/rg_new_game.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_route11.inc",
+      "sound/voicegroups/rg_route24.inc",
+      "sound/voicegroups/rg_route3.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/rg_victory_gym_leader.inc",
+      "sound/voicegroups/rg_victory_road.inc",
+      "sound/voicegroups/rg_victory_wild.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/route104.inc",
+      "sound/voicegroups/route110.inc",
+      "sound/voicegroups/route111.inc",
+      "sound/voicegroups/route113.inc",
+      "sound/voicegroups/route119.inc",
+      "sound/voicegroups/route120.inc",
+      "sound/voicegroups/route122.inc",
+      "sound/voicegroups/rs_sfx_1.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/safari_zone.inc",
+      "sound/voicegroups/sealed_chamber.inc",
+      "sound/voicegroups/title.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/victory_aqua_magma.inc",
+      "sound/voicegroups/victory_gym_leader.inc",
+      "sound/voicegroups/victory_league.inc",
+      "sound/voicegroups/victory_road.inc",
+      "sound/voicegroups/victory_wild.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_aqua_magma_leader.inc",
+      "sound/voicegroups/vs_champion.inc",
+      "sound/voicegroups/vs_elite_four.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_gym_leader.inc",
+      "sound/voicegroups/vs_kyogre_groudon.inc",
+      "sound/voicegroups/vs_rayquaza.inc",
+      "sound/voicegroups/vs_regi.inc",
+      "sound/voicegroups/vs_rival.inc",
+      "sound/voicegroups/vs_trainer.inc",
+      "sound/voicegroups/vs_wild.inc"
+    ]
+  },
+  {
+    "id": 111,
+    "symbol": "DirectSoundWaveData_sc88pro_timpani_with_snare",
+    "name": "Timpani With Snare",
+    "bank": "sc88pro",
+    "slug": "sc88pro-timpani-with-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/vs_trainer.inc"
+    ]
+  },
+  {
+    "id": 112,
+    "symbol": "DirectSoundWaveData_sc88pro_tr909_hand_clap",
+    "name": "Tr909 Hand Clap",
+    "bank": "sc88pro",
+    "slug": "sc88pro-tr909-hand-clap",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/contest_lobby.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/rg_photo.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 113,
+    "symbol": "DirectSoundWaveData_trinity_30303_mega_bass",
+    "name": "Trinity 30303 Mega Bass",
+    "bank": null,
+    "slug": "trinity-30303-mega-bass",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 114,
+    "symbol": "DirectSoundWaveData_trinity_big_boned",
+    "name": "Trinity Big Boned",
+    "bank": null,
+    "slug": "trinity-big-boned",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abandoned_ship.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_regi.inc"
+    ]
+  },
+  {
+    "id": 115,
+    "symbol": "DirectSoundWaveData_trinity_cymbal_crash",
+    "name": "Trinity Cymbal Crash",
+    "bank": null,
+    "slug": "trinity-cymbal-crash",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc",
+      "sound/voicegroups/drumsets/rs.inc"
+    ]
+  },
+  {
+    "id": 116,
+    "symbol": "DirectSoundWaveData_sc88pro_trumpet_60",
+    "name": "Trumpet 60",
+    "bank": "sc88pro",
+    "slug": "sc88pro-trumpet-60",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/trumpet.inc"
+    ]
+  },
+  {
+    "id": 117,
+    "symbol": "DirectSoundWaveData_sc88pro_trumpet_72",
+    "name": "Trumpet 72",
+    "bank": "sc88pro",
+    "slug": "sc88pro-trumpet-72",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/trumpet.inc"
+    ]
+  },
+  {
+    "id": 118,
+    "symbol": "DirectSoundWaveData_sc88pro_trumpet_84",
+    "name": "Trumpet 84",
+    "bank": "sc88pro",
+    "slug": "sc88pro-trumpet-84",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/trumpet.inc"
+    ]
+  },
+  {
+    "id": 119,
+    "symbol": "DirectSoundWaveData_sc88pro_tuba_39",
+    "name": "Tuba 39",
+    "bank": "sc88pro",
+    "slug": "sc88pro-tuba-39",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/tuba.inc"
+    ]
+  },
+  {
+    "id": 120,
+    "symbol": "DirectSoundWaveData_sc88pro_tuba_51",
+    "name": "Tuba 51",
+    "bank": "sc88pro",
+    "slug": "sc88pro-tuba-51",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/keysplits/tuba.inc"
+    ]
+  },
+  {
+    "id": 121,
+    "symbol": "DirectSoundWaveData_sc88pro_tubular_bell",
+    "name": "Tubular Bell",
+    "bank": "sc88pro",
+    "slug": "sc88pro-tubular-bell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/abandoned_ship.inc",
+      "sound/voicegroups/abnormal_weather.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/b_frontier.inc",
+      "sound/voicegroups/b_pike.inc",
+      "sound/voicegroups/b_pyramid.inc",
+      "sound/voicegroups/b_pyramid_top.inc",
+      "sound/voicegroups/b_tower.inc",
+      "sound/voicegroups/cave_of_origin.inc",
+      "sound/voicegroups/contest.inc",
+      "sound/voicegroups/credits.inc",
+      "sound/voicegroups/encounter_hiker.inc",
+      "sound/voicegroups/ever_grande.inc",
+      "sound/voicegroups/hall_of_fame.inc",
+      "sound/voicegroups/intro_battle.inc",
+      "sound/voicegroups/mt_pyre.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_encounter_deoxys.inc",
+      "sound/voicegroups/rg_game_corner.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_oak.inc",
+      "sound/voicegroups/rg_oak_lab.inc",
+      "sound/voicegroups/rg_pewter.inc",
+      "sound/voicegroups/rg_poke_center.inc",
+      "sound/voicegroups/rg_poke_mansion.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_rocket_hideout.inc",
+      "sound/voicegroups/rg_route11.inc",
+      "sound/voicegroups/rg_route24.inc",
+      "sound/voicegroups/rg_route3.inc",
+      "sound/voicegroups/rg_sevii_45.inc",
+      "sound/voicegroups/rg_sevii_67.inc",
+      "sound/voicegroups/rg_silph.inc",
+      "sound/voicegroups/rg_title.inc",
+      "sound/voicegroups/rg_victory_road.inc",
+      "sound/voicegroups/rg_vs_champion.inc",
+      "sound/voicegroups/rg_vs_deoxys.inc",
+      "sound/voicegroups/rg_vs_gym_leader.inc",
+      "sound/voicegroups/route110.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/sealed_chamber.inc",
+      "sound/voicegroups/slateport.inc",
+      "sound/voicegroups/title.inc",
+      "sound/voicegroups/trick_house.inc",
+      "sound/voicegroups/underwater.inc",
+      "sound/voicegroups/victory_league.inc",
+      "sound/voicegroups/victory_road.inc",
+      "sound/voicegroups/vs_aqua_magma.inc",
+      "sound/voicegroups/vs_frontier_brain.inc",
+      "sound/voicegroups/vs_kyogre_groudon.inc",
+      "sound/voicegroups/vs_rayquaza.inc"
+    ]
+  },
+  {
+    "id": 122,
+    "symbol": "DirectSoundWaveData_unknown_1",
+    "name": "Unknown 1",
+    "bank": null,
+    "slug": "unknown-1",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 123,
+    "symbol": "DirectSoundWaveData_unknown_10",
+    "name": "Unknown 10",
+    "bank": null,
+    "slug": "unknown-10",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/contest_lobby.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 124,
+    "symbol": "DirectSoundWaveData_unknown_11",
+    "name": "Unknown 11",
+    "bank": null,
+    "slug": "unknown-11",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 125,
+    "symbol": "DirectSoundWaveData_unknown_12",
+    "name": "Unknown 12",
+    "bank": null,
+    "slug": "unknown-12",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 126,
+    "symbol": "DirectSoundWaveData_unknown_13",
+    "name": "Unknown 13",
+    "bank": null,
+    "slug": "unknown-13",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 127,
+    "symbol": "DirectSoundWaveData_unknown_14",
+    "name": "Unknown 14",
+    "bank": null,
+    "slug": "unknown-14",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 128,
+    "symbol": "DirectSoundWaveData_unknown_15",
+    "name": "Unknown 15",
+    "bank": null,
+    "slug": "unknown-15",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 129,
+    "symbol": "DirectSoundWaveData_unknown_16",
+    "name": "Unknown 16",
+    "bank": null,
+    "slug": "unknown-16",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 130,
+    "symbol": "DirectSoundWaveData_unknown_17",
+    "name": "Unknown 17",
+    "bank": null,
+    "slug": "unknown-17",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 131,
+    "symbol": "DirectSoundWaveData_unknown_18",
+    "name": "Unknown 18",
+    "bank": null,
+    "slug": "unknown-18",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/rg_ss_anne.inc"
+    ]
+  },
+  {
+    "id": 132,
+    "symbol": "DirectSoundWaveData_unknown_2",
+    "name": "Unknown 2",
+    "bank": null,
+    "slug": "unknown-2",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 133,
+    "symbol": "DirectSoundWaveData_unknown_3",
+    "name": "Unknown 3",
+    "bank": null,
+    "slug": "unknown-3",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 134,
+    "symbol": "DirectSoundWaveData_unknown_4",
+    "name": "Unknown 4",
+    "bank": null,
+    "slug": "unknown-4",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 135,
+    "symbol": "DirectSoundWaveData_unknown_5",
+    "name": "Unknown 5",
+    "bank": null,
+    "slug": "unknown-5",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 136,
+    "symbol": "DirectSoundWaveData_unknown_6",
+    "name": "Unknown 6",
+    "bank": null,
+    "slug": "unknown-6",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 137,
+    "symbol": "DirectSoundWaveData_unknown_7",
+    "name": "Unknown 7",
+    "bank": null,
+    "slug": "unknown-7",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 138,
+    "symbol": "DirectSoundWaveData_unknown_8",
+    "name": "Unknown 8",
+    "bank": null,
+    "slug": "unknown-8",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 139,
+    "symbol": "DirectSoundWaveData_unknown_9",
+    "name": "Unknown 9",
+    "bank": null,
+    "slug": "unknown-9",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 140,
+    "symbol": "DirectSoundWaveData_unknown_bell",
+    "name": "Unknown Bell",
+    "bank": null,
+    "slug": "unknown-bell",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/rs.inc"
+    ]
+  },
+  {
+    "id": 141,
+    "symbol": "DirectSoundWaveData_unknown_close_hihat",
+    "name": "Unknown Close Hihat",
+    "bank": null,
+    "slug": "unknown-close-hihat",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 142,
+    "symbol": "DirectSoundWaveData_unknown_female_voice",
+    "name": "Unknown Female Voice",
+    "bank": null,
+    "slug": "unknown-female-voice",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_pike.inc"
+    ]
+  },
+  {
+    "id": 143,
+    "symbol": "DirectSoundWaveData_unknown_koto_high",
+    "name": "Unknown Koto High",
+    "bank": null,
+    "slug": "unknown-koto-high",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_arena.inc"
+    ]
+  },
+  {
+    "id": 144,
+    "symbol": "DirectSoundWaveData_unknown_koto_low",
+    "name": "Unknown Koto Low",
+    "bank": null,
+    "slug": "unknown-koto-low",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_arena.inc"
+    ]
+  },
+  {
+    "id": 145,
+    "symbol": "DirectSoundWaveData_unknown_open_hihat",
+    "name": "Unknown Open Hihat",
+    "bank": null,
+    "slug": "unknown-open-hihat",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/rs.inc"
+    ]
+  },
+  {
+    "id": 146,
+    "symbol": "DirectSoundWaveData_unknown_snare",
+    "name": "Unknown Snare",
+    "bank": null,
+    "slug": "unknown-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/dummy.inc"
+    ]
+  },
+  {
+    "id": 147,
+    "symbol": "DirectSoundWaveData_unknown_synth_snare",
+    "name": "Unknown Synth Snare",
+    "bank": null,
+    "slug": "unknown-synth-snare",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_1.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 148,
+    "symbol": "DirectSoundWaveData_unused_guitar_separates_power_chord",
+    "name": "Unused Guitar Separates Power Chord",
+    "bank": null,
+    "slug": "unused-guitar-separates-power-chord",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/dummy.inc"
+    ]
+  },
+  {
+    "id": 149,
+    "symbol": "DirectSoundWaveData_unused_heart_of_asia_indian_drum",
+    "name": "Unused Heart Of Asia Indian Drum",
+    "bank": null,
+    "slug": "unused-heart-of-asia-indian-drum",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/emerald_1.inc",
+      "sound/voicegroups/drumsets/emerald_2.inc",
+      "sound/voicegroups/drumsets/frlg.inc",
+      "sound/voicegroups/drumsets/frlg_fanfare_1.inc",
+      "sound/voicegroups/drumsets/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 150,
+    "symbol": "DirectSoundWaveData_unused_sc55_tom",
+    "name": "Unused Sc55 Tom",
+    "bank": null,
+    "slug": "unused-sc55-tom",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/drumsets/rs.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 151,
+    "symbol": "DirectSoundWaveData_unused_sc88pro_unison_slap",
+    "name": "Unused Sc88pro Unison Slap",
+    "bank": null,
+    "slug": "unused-sc88pro-unison-slap",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/rg_vs_trainer.inc",
+      "sound/voicegroups/rg_vs_wild.inc",
+      "sound/voicegroups/vs_mew.inc"
+    ]
+  },
+  {
+    "id": 152,
+    "symbol": "DirectSoundWaveData_unused_sd90_oboe",
+    "name": "Unused Sd90 Oboe",
+    "bank": null,
+    "slug": "unused-sd90-oboe",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/dummy.inc",
+      "sound/voicegroups/rg_credits.inc"
+    ]
+  },
+  {
+    "id": 153,
+    "symbol": "DirectSoundWaveData_unused_unknown_male_voice",
+    "name": "Unused Unknown Male Voice",
+    "bank": null,
+    "slug": "unused-unknown-male-voice",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_pike.inc"
+    ]
+  },
+  {
+    "id": 154,
+    "symbol": "DirectSoundWaveData_sc88pro_wind",
+    "name": "Wind",
+    "bank": "sc88pro",
+    "slug": "sc88pro-wind",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/rs_sfx_2.inc"
+    ]
+  },
+  {
+    "id": 155,
+    "symbol": "DirectSoundWaveData_sc88pro_xylophone",
+    "name": "Xylophone",
+    "bank": "sc88pro",
+    "slug": "sc88pro-xylophone",
+    "sources": [
+      "sound/direct_sound_data.inc",
+      "sound/voicegroups/b_factory.inc",
+      "sound/voicegroups/contest_results.inc",
+      "sound/voicegroups/dewford.inc",
+      "sound/voicegroups/encounter_champion.inc",
+      "sound/voicegroups/encounter_elite_four.inc",
+      "sound/voicegroups/encounter_girl.inc",
+      "sound/voicegroups/encounter_interviewer.inc",
+      "sound/voicegroups/fanfare.inc",
+      "sound/voicegroups/frlg_sfx.inc",
+      "sound/voicegroups/game_corner.inc",
+      "sound/voicegroups/hall_of_fame_room.inc",
+      "sound/voicegroups/intro.inc",
+      "sound/voicegroups/register_match_call.inc",
+      "sound/voicegroups/rg_caught_intro.inc",
+      "sound/voicegroups/rg_credits.inc",
+      "sound/voicegroups/rg_cycling.inc",
+      "sound/voicegroups/rg_dex_rating.inc",
+      "sound/voicegroups/rg_lavender.inc",
+      "sound/voicegroups/rg_obtain_key_item.inc",
+      "sound/voicegroups/rg_poke_tower.inc",
+      "sound/voicegroups/rg_viridian_forest.inc",
+      "sound/voicegroups/rs_sfx_2.inc",
+      "sound/voicegroups/safari_zone.inc",
+      "sound/voicegroups/sailing.inc",
+      "sound/voicegroups/sootopolis.inc",
+      "sound/voicegroups/trick_house.inc"
+    ]
+  }
+]

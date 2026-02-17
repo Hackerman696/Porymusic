@@ -49,8 +49,7 @@ def update_midi_cfg(midi_cfg_path: Path, *, voicegroup: str, volume: int, reverb
 
 def run_make(repo_root: Path) -> None:
     # -j1 makes errors readable; later we can speed up once stable
-    subprocess.run(["make", "clean"], cwd=repo_root, check=True)
-    subprocess.run(["make", "-j1"], cwd=repo_root, check=True)
+    subprocess.run(["make", "-j8", "pokeemerald.gba"], cwd=repo_root, check=True)
 
 
 def launch_mgba(mgba_path: Path, rom_path: Path) -> None:

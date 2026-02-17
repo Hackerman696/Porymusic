@@ -1,0 +1,5 @@
+{
+  "repo": "resources/pokeemeraldtest/pokeemerald",
+  "mgba": "/Applications/mGBA.app/Contents/MacOS/mGBA",
+  "db": "midi_editor/data/directsound_samples.json"
+}

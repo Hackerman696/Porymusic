@@ -1,0 +1,239 @@
+{
+  "drumset": "rs_drumset",
+  "base_midi_note": 36,
+  "source_file": "sound/voicegroups/rs.inc",
+  "notes": [
+    {
+      "index": 0,
+      "midi_note": 36,
+      "symbol": "DirectSoundWaveData_sc88pro_rnd_kick",
+      "name": "Kick (Rnd)",
+      "category": "kick",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 1,
+      "midi_note": 37,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 2,
+      "midi_note": 38,
+      "symbol": "DirectSoundWaveData_sc88pro_rnd_snare",
+      "name": "Snare (Rnd)",
+      "category": "snare",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 3,
+      "midi_note": 39,
+      "symbol": "DirectSoundWaveData_sc88pro_tr909_hand_clap",
+      "name": "Hand Clap (TR-909)",
+      "category": "clap",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 4,
+      "midi_note": 40,
+      "symbol": "DirectSoundWaveData_sc88pro_orchestra_snare",
+      "name": "Orchestral Snare",
+      "category": "snare",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 5,
+      "midi_note": 41,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (Low) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 6,
+      "midi_note": 42,
+      "symbol": "DirectSoundWaveData_unknown_close_hihat",
+      "name": "Closed Hi-Hat",
+      "category": "hihat",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 7,
+      "midi_note": 43,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (Mid-Low) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 8,
+      "midi_note": 44,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 9,
+      "midi_note": 45,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (Mid) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 10,
+      "midi_note": 46,
+      "symbol": "DirectSoundWaveData_unknown_open_hihat",
+      "name": "Open Hi-Hat",
+      "category": "hihat",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 11,
+      "midi_note": 47,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (Mid-High) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 12,
+      "midi_note": 48,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (High) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 13,
+      "midi_note": 49,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 14,
+      "midi_note": 50,
+      "symbol": "DirectSoundWaveData_unused_sc55_tom",
+      "name": "Tom (Very High) (SC-55)",
+      "category": "tom",
+      "macro": "voice_directsound"
+    },
+    {
+      "index": 15,
+      "midi_note": 51,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 16,
+      "midi_note": 52,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 17,
+      "midi_note": 53,
+      "symbol": "DirectSoundWaveData_unknown_bell",
+      "name": "Bell",
+      "category": "bell",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 18,
+      "midi_note": 54,
+      "symbol": "DirectSoundWaveData_sc88pro_tambourine",
+      "name": "Tambourine",
+      "category": "shaker",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 19,
+      "midi_note": 55,
+      "symbol": "DirectSoundWaveData_trinity_cymbal_crash",
+      "name": "Crash Cymbal (Trinity)",
+      "category": "crash",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 20,
+      "midi_note": 56,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 21,
+      "midi_note": 57,
+      "symbol": "DirectSoundWaveData_sc88pro_orchestra_cymbal_crash",
+      "name": "Crash Cymbal (Orchestral)",
+      "category": "crash",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 22,
+      "midi_note": 58,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 23,
+      "midi_note": 59,
+      "symbol": "DirectSoundWaveData_sc88pro_orchestra_cymbal_crash",
+      "name": "Crash Cymbal (Orchestral) (Alt)",
+      "category": "crash",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 24,
+      "midi_note": 60,
+      "symbol": "DirectSoundWaveData_sc88pro_orchestra_cymbal_crash",
+      "name": "Crash Cymbal (Orchestral) (Low Vol)",
+      "category": "crash",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 25,
+      "midi_note": 61,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 26,
+      "midi_note": 62,
+      "symbol": "DirectSoundWaveData_sc88pro_mute_high_conga",
+      "name": "Conga (Mute High)",
+      "category": "conga",
+      "macro": "voice_directsound_no_resample"
+    },
+    {
+      "index": 27,
+      "midi_note": 63,
+      "symbol": null,
+      "name": "Empty Slot",
+      "category": "empty",
+      "macro": "voice_square_1"
+    },
+    {
+      "index": 28,
+      "midi_note": 64,
+      "symbol": "DirectSoundWaveData_sc88pro_open_low_conga",
+      "name": "Conga (Open Low)",
+      "category": "conga",
+      "macro": "voice_directsound_no_resample"
+    }
+  ]
+}
